@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780669573668",
+    "project_id": "mobildeveloper-e083f",
+    "storage_bucket": "mobildeveloper-e083f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780669573668:android:e91b9a8fd1cd14a04256b1",
+        "android_client_info": {
+          "package_name": "com.hwa.fluttermvvmtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780669573668-h0e63caflmj4euup77oljcgtmas4und7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaF8cGXvhw20-DiHD_FvUhvqy4C_0uwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780669573668-h0e63caflmj4euup77oljcgtmas4und7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
